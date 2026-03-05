@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
+
 
 namespace CyberHack
 {
@@ -6,7 +8,8 @@ namespace CyberHack
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP!");
+            
         }
     }
 }
+
