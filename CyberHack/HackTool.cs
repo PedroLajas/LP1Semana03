@@ -2,11 +2,11 @@ namespace CyberHack
 {
     public enum HackTool
     {
-        BruteForce ,
-        Phishing ,
-        Backdoor ,
-        ZeroDay ,
-        AIOverride ,
-        QuantumExploit 
+        BruteForce,
+        Phishing,
+        Backdoor,
+        ZeroDay,
+        AIOverride,
+        QuantumExploit
     }
 }
